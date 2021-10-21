@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "1.C": "cpp",
+        "PUTS.C": "cpp",
+        "INTRO.C": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
